@@ -1,0 +1,118 @@
+[
+  {
+    "title": "BC2321H-RS",
+    "acf": {
+      "product_name": "BC2321H-RS",
+      "category": "Brush Cutter",
+      "main_image": {
+        "url": "extracted_images\\0.jpg"
+      },
+      "thumbnails": [
+        {
+          "url": "extracted_images\\1.jpg"
+        },
+        {
+          "url": "extracted_images\\2.jpg"
+        },
+        {
+          "url": "extracted_images\\3.jpg"
+        },
+        {
+          "url": "extracted_images\\10.jpg"
+        }
+      ],
+      "product_description": "A versatile brush cutter designed for various tasks, offering a reliable and efficient performance with its unique H.E.R.E Technology and ergonomic design.",
+      "detailed_description": "<p>A versatile brush cutter designed for various tasks, offering a reliable and efficient performance with its unique H.E.R.E Technology and ergonomic design.</p><p><strong>Brand:</strong> Maruyama | <strong>Model:</strong> BC2321H-RS</p><h3>Key Specifications:</h3><ul><li><strong>Dimensions (LxWxH):</strong> 1780x730x465 mm</li><li><strong>Dry Weight:</strong> 6.1 kg</li><li><strong>Engine:</strong> CER230 (22.5cc)</li><li><strong>Output:</strong> 0.77 kw</li><li><strong>Fuel tank:</strong> 0.45 L</li></ul><h3>Key Features:</h3><ul><li><strong>Treaded Clutch Shaft:</strong> A solid steel inner drive-shaft threaded at the clutch end, eliminating vibration.</li><li><strong>H.E.R.E Technology:</strong> A unique MARUYAMA engineered system for low emission, high power, and high fuel efficiency, EU stage 2 compliant.</li><li><strong>Ergonomic Design Handle Grip:</strong> Superior comfort and excellent balance for the user.</li><li><strong>Reverse Start 2:</strong> A fast and easy starter system, incorporating the best features of an electric starter.</li></ul>",
+      "rating": 4.5,
+      "review_count": 10,
+      "features": [
+        {
+          "title": "Treaded Clutch Shaft",
+          "description": "A solid steel inner drive-shaft threaded at the clutch end, eliminating vibration.",
+          "image": {
+            "url": "extracted_images\\0.jpg"
+          }
+        },
+        {
+          "title": "H.E.R.E Technology",
+          "description": "A unique MARUYAMA engineered system for low emission, high power, and high fuel efficiency, EU stage 2 compliant.",
+          "image": {
+            "url": "extracted_images\\1.jpg"
+          }
+        },
+        {
+          "title": "Ergonomic Design Handle Grip",
+          "description": "Superior comfort and excellent balance for the user.",
+          "image": {
+            "url": "extracted_images\\2.jpg"
+          }
+        },
+        {
+          "title": "Reverse Start 2",
+          "description": "A fast and easy starter system, incorporating the best features of an electric starter.",
+          "image": {
+            "url": "extracted_images\\3.jpg"
+          }
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Dimensions (LxWxH)",
+          "value": "1780x730x465 mm"
+        },
+        {
+          "label": "Dry Weight",
+          "value": "6.1 kg"
+        },
+        {
+          "label": "Engine",
+          "value": "CER230 (22.5cc)"
+        },
+        {
+          "label": "Output",
+          "value": "0.77 kw"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "0.45 L"
+        },
+        {
+          "label": "Handle",
+          "value": "Double"
+        },
+        {
+          "label": "Recoil Starting System",
+          "value": "Reverse Start 2"
+        },
+        {
+          "label": "Drive Shaft",
+          "value": "Solid steel \u00f87mm"
+        },
+        {
+          "label": "Accessory (Blade)",
+          "value": "4 teeth (230)"
+        },
+        {
+          "label": "Accessory (Nylon head)",
+          "value": "Semi-Auto L(4)"
+        },
+        {
+          "label": "Harness",
+          "value": "Single"
+        },
+        {
+          "label": "Left Handle(Blade/Nylon)",
+          "value": "4.2/5.4 m/s 2"
+        },
+        {
+          "label": "Right Handle(Blade/Nylon Head)",
+          "value": "5.3/5.6 m/s 2"
+        },
+        {
+          "label": "Sound Pressure Level (Blade/Nylon Head)*2",
+          "value": "91.5/93.5 dB(A)"
+        }
+      ]
+    }
+  }
+]
